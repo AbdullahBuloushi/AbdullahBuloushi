@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdullahBuloushi
-- 👀 I’m interested in Stack Overflow
+- 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me abdullahbuloushi@gmial.com
